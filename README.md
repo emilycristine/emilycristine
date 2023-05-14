@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Para mais informoções sobre mim, da uma olhadinha nas redes abaixo!
+  ### Para mais informações sobre mim, da uma olhadinha nas redes abaixo!
  
 <div> 
   <a href = "mailto:emilycristhine92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
