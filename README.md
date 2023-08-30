@@ -17,7 +17,7 @@
   
   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
-</div>v
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
